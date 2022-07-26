@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyBand</string>
+    <string name="profile_selection">Choose the profile that best describes you</string>
+    <string name="profile_selected">"Profile Selected: "</string>
+    <string name="profile_1">I am a musician/band</string>
+    <string name="profile_2">I am an audio engineer (and/or) run a jam room</string>
+    <string name="profile_3">I am an event organiser</string>
+    <string name="profile_4">I am a music fan</string>
+    <string name="register">REGISTER</string>
+    <string name="details">We would like to get to know you better!</string>
+    <string name="explore">START EXPLORING</string>
+    <string name="name">Name: </string>
+    <string name="genre">Genre: </string>
+    <string name="language">Language: </string>
+</resources>
